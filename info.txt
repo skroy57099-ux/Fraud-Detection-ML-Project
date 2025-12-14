@@ -1,0 +1,3 @@
+streamlit error fix
+
+python -m streamlit run fraud_detection.py
